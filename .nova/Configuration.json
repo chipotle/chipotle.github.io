@@ -3,9 +3,11 @@
 
   ],
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
-    "html"
+    "html",
+    "css"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "file:\/\/\/Users\/watts\/src\/chipotle.github.io\/index.html"
+    "file:\/\/\/Users\/watts\/src\/chipotle.github.io\/index.html",
+    "file:\/\/\/Users\/watts\/src\/chipotle.github.io\/style.css"
   ]
 }
